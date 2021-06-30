@@ -2,8 +2,8 @@
 numeros = [1,2,3,4,5]
 print("Datos en la lista:", numeros)
 
-#Acceso por indice
-dato = numeros[2]
+#Acceso por indice 
+dato = numeros[2] #accedes al indice 2 de la lista
 print(dato)
 
 #Obtener porciones de lista
